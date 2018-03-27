@@ -28,5 +28,4 @@
 <sub>2.</sub> <sub> Systemet ska presentera en grafiskt tilltalande administrationspanel för hantering av support-ärenden</sub><br>
 <sub>3.</sub> <sub> Systemet ska skapa ärenden av inkomna mail från registrerade avsändare</sub><br>
 <sub>4.</sub> <sub> Användare ska kunna hantera, svara och ändra status på ärenden</sub><br>
-<sub>5.</sub> <sub> Systemet ska skicka vidare ärenden till en extern mailserver vid oväntade fel eller oregistrerade avsändare</sub><br>
-<sub>6.</sub> <sub> Systemet ska erbjuda en omfattande dokumentation</sub><br>
+<sub>5.</sub> <sub> Systemet ska skicka vidare ärenden till en extern mailserver vid oväntade fel eller oregistrerade avsändare</sub>
