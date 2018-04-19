@@ -23,7 +23,7 @@ Det här är dokumentations-sidan för mjukvaruprojektet för Futurum Digital. H
 
 ### Inception
 
-[Vision](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/Vision)<br>
+[Vision](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/Vision.md)<br>
 [Projektplan](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/Projektplan)<br>
 [Milstenar](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/Milstenar)<br>
 [Risklista](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/Risklista)<br>
