@@ -17,7 +17,7 @@
 * <sub>II. Systemet visar ett felmeddelande om att autentiseringen misslyckades</sub><br>
 * <sub>III. Steg 2 i huvudscenario</sub>
 
-## [Krav](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/Kravspecifikation) som relaterar till detta scenario
+## [Krav](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Kravspecifikation.md) som relaterar till detta scenario
 * <sub> #7</sub>
 * <sub> #8</sub>
 * <sub> #13</sub>
@@ -44,7 +44,7 @@
 <sub>4a. Systemet kunde inte registrera avsändaren (adress finns redan, fel format på mailadress, fel format på företagsnamn)</sub><br>
 * <sub>I. Systemet visar ett felmeddelande/sub><br>
 
-## [Krav](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/Kravspecifikation) som relaterar till detta scenario
+## [Krav](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Kravspecifikation.md) som relaterar till detta scenario
 * <sub> #17</sub>
 * <sub> #18</sub>
 
@@ -71,7 +71,7 @@
 * <sub>I. Systemet stänger popup-rutan och visar ett felmeddelande</sub><br>
 * <sub>II. Systemet uppdaterar inte status på ärendet</sub>
 
-## [Krav](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/Kravspecifikation) som relaterar till detta scenario
+## [Krav](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Kravspecifikation.md) som relaterar till detta scenario
 * <sub> #15</sub>
 * <sub> #19</sub>
 
@@ -90,6 +90,6 @@
 <sub>4a. Meddelandet kunde inte skickas</sub><br>
 * <sub>I. Systemet visar ett felmeddelande</sub>
 
-## [Krav](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/Kravspecifikation) som relaterar till detta scenario
+## [Krav](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Kravspecifikation.md) som relaterar till detta scenario
 * <sub> #16</sub>
 * <sub> #18</sub>

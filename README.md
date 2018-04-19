@@ -24,18 +24,18 @@ Det här är dokumentations-sidan för mjukvaruprojektet för Futurum Digital. H
 ### Inception
 
 [Vision](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Vision.md)<br>
-[Projektplan](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/Projektplan)<br>
-[Milstenar](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/Milstenar)<br>
-[Risklista](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/Risklista)<br>
-[Backlog](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/Backlog)<br>
-[Kravspecification](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/Kravspecifikation)<br>
-[Arkitektur](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/Arkitektur)<br>
+[Projektplan](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Projektplan.md)<br>
+[Milstenar](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Milstenar.md)<br>
+[Risklista](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Risklista.md)<br>
+[Backlog](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Backlog.md)<br>
+[Kravspecification](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Kravspecifikation.md)<br>
+[Arkitektur](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Arkitektur.md)<br>
 [Design-mockup](https://wireframepro.mockflow.com/view/futurum#/page/d6388e2e236241279707e40d4a0ff00e)<br>
-[Testspecifikation](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/Testspecifikation)<br>
-[Testspecifikation](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/Testrapporter)<br>
-[Arbetsprocessen](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/Arbetsprocessen)<br>
-[Iteration 0](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/Iterationsplan-%230) | 
-[Iteration 1](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/iteration-1) | 
-[Iteration 2](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/iteration-2) | [Iteration 3](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/iteration-3)
+[Testspecifikation](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Testspecifikation.md)<br>
+[Testspecifikation](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Testrapporter.md)<br>
+[Arbetsprocessen](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Arbetsprocessen.md)<br>
+[Iteration 0](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Iterationsplan-%230.md) | 
+[Iteration 1](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/iteration-1.md) | 
+[Iteration 2](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/iteration-2.md) | [Iteration 3](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/iteration-3.md)
 
 ----------------------------

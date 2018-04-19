@@ -2,7 +2,7 @@
 
 <sub>Systemet erbjuder en administrationspanel för hantering av support-ärenden på webben. Systemet används av de ansvariga för support-ärenden hos Futurum Digital, och fungerar som en prototyp av företagets framtida support-hantering. Det är därför viktigt att systemet är riktat dels mot användaren men också programmeraren.</sub>
 
-<sub>För utförligare förklaring av de funktionella kraven, [kolla in användarfallen här](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/Anv%C3%A4ndarfall)</sub><br>
+<sub>För utförligare förklaring av de funktionella kraven, [kolla in användarfallen här](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Anv%C3%A4ndarfall.md)</sub><br>
 
 <sub>För mer information och status om de olika kraven, **besök de issues som är kopplade till kraven**</sub>
 
@@ -48,4 +48,4 @@
 |<sub>#21</sub>|<sub>[Vid oväntade fel ska mail vidarebefordras till annan mailadress](https://github.com/1dv611-futurum-project/futurum-project/issues/22) </sub>|<sub>nr.5</sub>|<sub>--</sub>|
 
 ### Tester
-<sub>För en lista över systemtester och testfall som testar kraven, se [testspecifikationen](https://github.com/1dv611-futurum-project/dokumentation/inlämningar/inception/Testspecifikation).</sub>
+<sub>För en lista över systemtester och testfall som testar kraven, se [testspecifikationen](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Testspecifikation.md).</sub>
