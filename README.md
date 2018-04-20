@@ -29,7 +29,7 @@ Det här är dokumentations-sidan för mjukvaruprojektet för Futurum Digital. H
 [Risklista](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Risklista.md)<br>
 [Backlog](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Backlog.md)<br>
 [Kravspecification](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Kravspecifikation.md)<br>
-[Arkitektur](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Arkitektur)<br>
+[Arkitektur](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Arkitektur.md)<br>
 [Design-mockup](https://wireframepro.mockflow.com/view/futurum#/page/d6388e2e236241279707e40d4a0ff00e)<br>
 [Testspecifikation](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Testspecifikation.md)<br>
 [Testrapporter](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Testrapporter.md)<br>
