@@ -34,7 +34,7 @@ Det här är dokumentations-sidan för mjukvaruprojektet för Futurum Digital. H
 [Testspecifikation](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Testspecifikation.md)<br>
 [Testrapporter](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Testrapporter.md)<br>
 [Arbetsprocessen](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Arbetsprocessen.md)<br>
-[Iteration 1](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Iteration-1.md) | 
+[Iteration 0](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Iteration-0.md) | [Iteration 1](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Iteration-1.md) | 
 [Iteration 2](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Iteration-2.md) | [Iteration 3](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Iteration-3.md)
 
 ----------------------------
