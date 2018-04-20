@@ -1,4 +1,4 @@
-# UC1 Autentisera en användare och autentisera servern mot mailadressen som ska bevakas
+# UC1 Autentisera en användare
 ## Huvudscenario
  <sub>1. Börjar när en användare vill komma åt applikationen</sub><br>
  <sub>2. Systemet frågar om användaren vill autentisera och tillåta applikationen åtkomst till mailen</sub><br>
@@ -18,19 +18,9 @@
 * <sub>III. Steg 2 i huvudscenario</sub>
 
 ## [Krav](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Kravspecifikation.md) som relaterar till detta scenario
-* <sub> #7</sub>
-* <sub> #8</sub>
-* <sub> #13</sub>
-* <sub> #14</sub>
-* <sub> #15</sub>
-* <sub> #16</sub>
-* <sub> #17</sub>
-* <sub> #18</sub>
-* <sub> #19</sub>
-* <sub> #20</sub>
-* <sub> #21</sub>
+* <sub> #25</sub>
 
-# UC2 Lägga till registrerad avsändare
+# UC2 Lägga till avsändare till registret
 ## Förutsättningar
 <sub>Användaren är autentiserad ex. UC1</sub>
 
@@ -45,12 +35,11 @@
 * <sub>I. Systemet visar ett felmeddelande/sub><br>
 
 ## [Krav](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Kravspecifikation.md) som relaterar till detta scenario
-* <sub> #17</sub>
 * <sub> #18</sub>
 
 # UC3 Ändra status på ärende
 ## Förutsättningar
-<sub>Applikationen är tillåten åtkomst och användaren är autentiserad ex. UC1</sub><br>
+<sub>Användaren är autentiserad ex. UC1</sub><br>
 <sub>Ärendet finns tillgängligt och har en registrerad avsändare ex. UC2</sub>
 
 ## Huvudscenario
@@ -72,24 +61,44 @@
 * <sub>II. Systemet uppdaterar inte status på ärendet</sub>
 
 ## [Krav](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Kravspecifikation.md) som relaterar till detta scenario
-* <sub> #15</sub>
-* <sub> #19</sub>
+* <sub> #14</sub>
+* <sub> #16</sub>
+* <sub> #20</sub>
+* <sub> #23</sub>
 
-# UC4 Skicka meddelande till ärende
+# UC4 Sätta tilldelad ansvarig på ärende
+## Förutsättningar
+<sub>Användaren är autentiserad ex. UC1</sub><br>
+<sub>Ärendet finns tillgängligt och har en registrerad avsändare ex. UC2</sub><br>
+<sub>Ärendet presenteras i den detaljerade vyn</sub>
+
+## Huvudscenario
+ <sub>1. Börjar när en användare vill lägga till vem som är ansvarig för ett ärende</sub><br>
+ <sub>2. Systemet frågar om vem ärendet är tilldelat</sub><br>
+ <sub>3. Användaren tilldelar ärendet till en ansvarig</sub><br>
+ <sub>4. Systemet uppdaterar vem som är tilldelad ärendet</sub>
+
+## [Krav](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Kravspecifikation.md) som relaterar till detta scenario
+* <sub> #23</sub>
+* <sub> #24</sub>
+
+# UC5 Skicka meddelande till avsändare av ärende
 ## Förutsättningar
 <sub>Applikationen är tillåten åtkomst och användaren är autentiserad ex. UC1</sub><br>
-<sub>Ärendet finns tillgängligt och har en registrerad avsändare ex. UC2</sub>
+<sub>Ärendet finns tillgängligt och har en registrerad avsändare ex. UC2</sub><br>
+<sub>Ärendet presenteras i den detaljerade vyn</sub>
 
 ## Huvudscenario
  <sub>1. Börjar när en användare vill skicka ett meddelande till avsändaren av ett ärende</sub><br>
  <sub>2. Systemet frågar om meddelande</sub><br>
- <sub>3. Användaren förser ett meddelande</sub><br>
- <sub>4. Systemet skickar meddelandet och visar det skickade meddelandet i meddelandehistoriken</sub>
+ <sub>3. Användaren förser systemet med ett meddelande</sub><br>
+ <sub>4. Systemet skickar meddelandet och visar det skickade meddelandet i meddelande-historiken</sub>
 
 ## Alternativa scenarion
 <sub>4a. Meddelandet kunde inte skickas</sub><br>
 * <sub>I. Systemet visar ett felmeddelande</sub>
 
 ## [Krav](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Kravspecifikation.md) som relaterar till detta scenario
-* <sub> #16</sub>
-* <sub> #18</sub>
+* <sub> #17</sub>
+* <sub> #19</sub>
+* <sub> #23</sub>
