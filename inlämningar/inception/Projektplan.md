@@ -85,6 +85,8 @@ Timmarna ska spenderas som **20** timmar per vecka, per person, under projektets
 <sub>**Testansvarig:** Miranda.  </sub>  
 <sub>**Projektledare:** Molly. </sub>     
 
+<sub>**Backup kundhantering:** Miranda. </sub>     
+
 <sub>Dokumentationsansvaret är delat i gruppen, med varje områdesansvarig som huvudansvarstagande för dokumentationen som faller under det området, enligt följande:</sub>
 
 <sub>**Kundansvarig:** Ansvar för kravspecifikationen + vision. </sub> <br>
