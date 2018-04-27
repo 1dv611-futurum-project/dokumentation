@@ -16,14 +16,15 @@
 <sub>[***Kommentera***](https://go.gliffy.com/go/share/slhwa5vns09dme78nupu)</sub>
 
 ### Node
+![Klassdiagram node](https://go.gliffy.com/go/share/image/s12bghk6ug6ravy6316x.png?utm_medium=live-embed&utm_source=custom)
 
-* <sub>Authentisering genom OAuth2 Google mail.</sub>
-* <sub>IMAP events google mail.</sub>
-* <sub>Databashantering till och från lokal MongoDB.</sub>
-* <sub>Eventemitter/reciever genom websocket till klientappen.</sub>
 
-### React
-
-* <sub>SPA med hashrouting</sub>
-* <sub>Admins gränssnitt för ärendehantering</sub>
-* <sub>Eventemitter/reciever genom websocket till serverappen.</sub>
+* <sub>React</sub>
+   * <sub>SPA med hashrouting</sub>
+   * <sub>Admins gränssnitt för ärendehantering</sub>
+   * <sub>Eventemitter/reciever genom websocket till serverappen.</sub>
+* <sub>Node</sub>
+   * <sub>Authentisering genom OAuth2 Google mail.</sub>
+   * <sub>IMAP events google mail.</sub>
+   * <sub>Databashantering till och från lokal MongoDB.</sub>
+   * <sub>Eventemitter/reciever genom websocket till klientappen.</sub>

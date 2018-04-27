@@ -80,10 +80,12 @@ Timmarna ska spenderas som **20** timmar per vecka, per person, under projektets
 ### Ansvarsfördelning
 <sub>Projektet har en *projektledare*, en *testansvarig*, en *implementationsansvarig* och en *kund- och kravansvarig*. Det är ansvarigs uppgift att strukturera arbetet kring sitt eget ansvarsområde och se till att det är gjort i tid, och allas uppgift att bidra till slutförandet av de arbetsuppgifter som uppstår under varje område.</sub>
 
-<sub>**Kund- och kravansvarig:** Jesper, Miranda. </sub>   
+<sub>**Kund- och kravansvarig:** Jesper. </sub>   
 <sub>**Implementationsansvarig:** Johan.  </sub>  
 <sub>**Testansvarig:** Miranda.  </sub>  
 <sub>**Projektledare:** Molly. </sub>     
+
+<sub>**Backup kundhantering:** Miranda. </sub>     
 
 <sub>Dokumentationsansvaret är delat i gruppen, med varje områdesansvarig som huvudansvarstagande för dokumentationen som faller under det området, enligt följande:</sub>
 
