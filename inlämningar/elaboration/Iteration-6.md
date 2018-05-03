@@ -29,21 +29,21 @@
 <sub>[Tasks](https://github.com/1dv611-futurum-project/futurum-project/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3A%22Iteration+6%22+) som planerats för denna iteration finns som issues.</sub>
 
 <sub>Tid anges här som total tid spenderad av alla gruppmedlemmar - ett möte på en timme som alla deltagit på uppskattas alltså ta fyra timmar. Tidsuppskattningen fortsätter på förra veckans spår efter att ha bekräftat med handledaren att vara av det mer generella slaget, eftersom den specifika tidsuppskattningen tar alldeles för lång tid i anspråk i ett grupprojekt där vi inte vet exakt vem som kommer att utföra vilka uppgifter eller hur vi kommer att bryta ner de uppgifter som behöver utföras. Mollys totala timmar är lite lägre den här veckan för att kompensera för tidigare övertidsarbete, men timmar kommer att läggas till vid behov beroende på hur mycket arbete som behöver göras med mail-delen av applikationen under integrationsarbetet.</sub>
- 
+
 |<sub>Område</sub>|<sub>Requirement ID</sub>|<sub>Vi vill...</sub>|<sub>Så att...</sub>|<sub>Noteringar</sub>|<sub>Appr. Tid(h)</sub>|<sub>Ansvarig</sub>|
 |----|-----|------------|----------|-----|-----|-----|
-|<sub>Möte</sub>|<sub>-</sub>|<sub>Redovisning av elaboration</sub>|<sub>Vi följer utvecklingsprocessen</sub>|<sub>-</sub>|<sub>4</sub>|<sub>Alla</sub>| 
-|<sub>Möte</sub>|<sub>Alla</sub>|<sub>Gruppmöten</sub>|<sub>Vi kommer överens om hur vi ska jobba tillsammans</sub>|<sub>-</sub>|<sub>4</sub>|<sub>Alla</sub>| 
-|<sub>Möte</sub>|<sub>Alla</sub>|<sub>Kundmöte</sub>|<sub>Vi gör en delleverans av systemet.</sub>|<sub>-</sub>|<sub>4</sub>|<sub>Alla</sub>| 
-|<sub>Applikation</sub>|<sub>14, 16, 17, 18, 24</sub>|<sub>Färdigställa databas</sub>|<sub>Vi kan spara undan uppdateringar av information</sub>|<sub>-</sub>|<sub>7</sub>|<sub>Johan</sub>| 
-|<sub>Applikation</sub>|<sub>14, 16, 17, 18, 19, 20, 24</sub>|<sub>Databas - Websocketintegration på servern</sub>|<sub>Vi kan kommunicera mellan klient och databas och spara undan uppdateringar av information</sub>|<sub>-</sub>|<sub>1.5</sub>|<sub>Johan</sub>| 
+|<sub>Möte</sub>|<sub>-</sub>|<sub>Redovisning av elaboration</sub>|<sub>Vi följer utvecklingsprocessen</sub>|<sub>-</sub>|<sub>4</sub>|<sub>Alla</sub>|
+|<sub>Möte</sub>|<sub>Alla</sub>|<sub>Gruppmöten</sub>|<sub>Vi kommer överens om hur vi ska jobba tillsammans</sub>|<sub>-</sub>|<sub>4</sub>|<sub>Alla</sub>|
+|<sub>Möte</sub>|<sub>Alla</sub>|<sub>Kundmöte</sub>|<sub>Vi gör en delleverans av systemet.</sub>|<sub>-</sub>|<sub>4</sub>|<sub>Alla</sub>|
+|<sub>Applikation</sub>|<sub>14, 16, 17, 18, 24</sub>|<sub>Färdigställa databas</sub>|<sub>Vi kan spara undan uppdateringar av information</sub>|<sub>-</sub>|<sub>7</sub>|<sub>Johan</sub>|
+|<sub>Applikation</sub>|<sub>14, 16, 17, 18, 19, 20, 24</sub>|<sub>Databas - Websocketintegration på servern</sub>|<sub>Vi kan kommunicera mellan klient och databas och spara undan uppdateringar av information</sub>|<sub>-</sub>|<sub>1.5</sub>|<sub>Johan</sub>|
 |<sub>Applikation</sub>|<sub>14, 16, 17, 18, 19, 20, 24</sub>|<sub>Mail - Websocketintegration på servern, socketdelen</sub>|<sub>Vi kan kommunicera med klienten över mail</sub>|<sub>-</sub>|<sub>1.5</sub>|<sub>Johan</sub>|  
-|<sub>Applikation</sub>|<sub>14, 16, 17, 18, 19, 20, 24</sub>|<sub>Mail - Websocketintegration på servern, maildelen</sub>|<sub>Vi kan kommunicera med klienten över mail</sub>|<sub>Molly står i standby för eventuellt som behöver göras på mailsidan av den här integrationen - vi vet inte riktigt det förrän integrationen har börjat.</sub>|<sub>0-4</sub>|<sub>Molly</sub>| 
+|<sub>Applikation</sub>|<sub>14, 16, 17, 18, 19, 20, 24</sub>|<sub>Mail - Websocketintegration på servern, maildelen</sub>|<sub>Vi kan kommunicera med klienten över mail</sub>|<sub>Molly står i standby för eventuellt som behöver göras på mailsidan av den här integrationen - vi vet inte riktigt det förrän integrationen har börjat.</sub>|<sub>0-4</sub>|<sub>Molly</sub>|
 |<sub>Applikation</sub>|<sub>15, 16, 17, 18, 19, 20, 24</sub>|<sub>Buggar på klienten - Websocketintegration och inloggningsrelaterade</sub>|<sub>Klientintegrationen med servern fungerar och inloggningsflödet fungerar</sub>|<sub></sub>|<sub>5</sub>|<sub>Johan</sub>|
 |<sub>Applikation</sub>|<sub>14, 17, 19, 20, 23, 24</sub>|<sub>Buggar på klienten - ärendevisningsrelaterade</sub>|<sub>Klientintegrationen med servern fungerar och ärenden visas korrekt</sub>|<sub></sub>|<sub>5</sub>|<sub>Miranda</sub>|
-|<sub>Applikation</sub>|<sub>Alla</sub>|<sub>Tester</sub>|<sub>Tester skrivs för all kod som redan finns och all ny kod som skrivs.</sub>|<sub>-</sub>|<sub>8</sub>|<sub>Alla</sub>| 
-|<sub>Dokumentation</sub>|<sub>6</sub>|<sub>Håll dokumentation uppdaterad</sub>|<sub>Vi följer utvecklingsprocessen</sub>|<sub>-</sub>|<sub>8</sub>|<sub>Alla</sub>| 
-|<sub>Dokumentation</sub>|<sub>6</sub>|<sub>Skriv iterationsplan för iteration 6</sub>|<sub>Vi följer utvecklingsprocessen</sub>|<sub>-</sub>|<sub>1.5</sub>|<sub>Molly</sub>| 
+|<sub>Applikation</sub>|<sub>Alla</sub>|<sub>Tester</sub>|<sub>Tester skrivs för all kod som redan finns och all ny kod som skrivs.</sub>|<sub>-</sub>|<sub>8</sub>|<sub>Alla</sub>|
+|<sub>Dokumentation</sub>|<sub>6</sub>|<sub>Håll dokumentation uppdaterad</sub>|<sub>Vi följer utvecklingsprocessen</sub>|<sub>-</sub>|<sub>8</sub>|<sub>Alla</sub>|
+|<sub>Dokumentation</sub>|<sub>6</sub>|<sub>Skriv iterationsplan för iteration 6</sub>|<sub>Vi följer utvecklingsprocessen</sub>|<sub>-</sub>|<sub>1.5</sub>|<sub>Molly</sub>|
 |<sub>Dokumentation</sub>|<sub>6</sub>|<sub>Färdigställ presentation av Elaboration-fasen</sub>|<sub>Vi följer utvecklingsprocessen</sub>|<sub>-</sub>|<sub>6</sub>|<sub>Molly + Miranda</sub>|
 |<sub>Dokumentation</sub>|<sub>6</sub>|<sub>Gå igenom referentgrupps dokumentation med [Elaborationgranskning](https://docs.google.com/document/d/1Y5wY5yaChtQz4VvmQoJ72TRmtN3wXmoDDyGGFxvdRys/edit) i bakhuvudet</sub>|<sub>Vi följer utvecklingsprocessen</sub>|<sub>-</sub>|<sub>6</sub>|<sub>Johan + Jesper</sub>|
 | | | | |<sub>Total tid i iterationen:</sub>|70| |
@@ -52,12 +52,12 @@
 <sub>Målet med kommande iteration är att färdigställa [Milsten 4](https://github.com/1dv611-futurum-project/futurum-project/wiki/Milstenar#milsten-4-project-phase---elaboration-ut%C3%B6kad-funktionalitet). Detta innebär att databasen ska färdigställas och integreras med Websocketen och mailmodulerna. I den bästa av världar går detta smidigt och får konsekvensen att mail sparas undan när de kommer in från mail-servern, ärenden kan filtreras baserat på status på klienten, och klienten och servern kan kommunicera genom Websocketen om statusändringar och att mail ska skickas till kund. Förmodligen kommer mindre problem uppstå i integrationen, men målet är att lösa dem under veckan. Alla tekniker och principer fungerar separat. Vi ska också ha ett kundmöte där funktionaliteten visas upp för kund.</sub>
 
 #### Risker som ska hanteras  
-* <sub> R1 - Bristande kundengagemang </sub> 
-* <sub> R2 - Tidsbrist </sub> 
-* <sub> R3 - Sjukdom/närvarobrist </sub> 
-* <sub> R6 - IMAP </sub> 
-* <sub> R7 - Databasproblem </sub> 
-* <sub> R8 - Websocket </sub> 
+* <sub> R1 - Bristande kundengagemang </sub>
+* <sub> R2 - Tidsbrist </sub>
+* <sub> R3 - Sjukdom/närvarobrist </sub>
+* <sub> R6 - IMAP </sub>
+* <sub> R7 - Databasproblem </sub>
+* <sub> R8 - Websocket </sub>
 
 #### Uppgifter för att hantera riskerna
 * <sub> Kundengagemanget hanteras  som alltid genom ett kundmöte.</sub>
