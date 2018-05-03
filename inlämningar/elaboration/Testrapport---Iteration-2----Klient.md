@@ -4,14 +4,14 @@
 <sub>**Testmiljö:**  Kubuntu 17.10, Chrome 65 x64</sub>
 
 ### Testfall och status
-<sub>För en beskrivning av testfallen, se [här](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Testspecifikation.md).</sub>    
+<sub>För en beskrivning av testfallen, se [här](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Testspecifikation.md).</sub>    
 
 <sub>Denna testrapport berör:</sub>  
 
 |<sub>Testfall</sub>|<sub>Namn</sub>|<sub>Status</sub>|
 |----|--------|------------|
-|<sub>T4.1-3</sub>|<sub>[Testfall 4 - Ändra status på ärende - flerkortsvy, uppdatering till kund](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Testspecifikation.md)</sub>|<sub><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Yes_Check_Circle.svg/2000px-Yes_Check_Circle.svg.png" width="15"></sub>|
-|<sub>T5.1-4</sub>|<sub>[Testfall 5 - Ändra status på ärende - enskild kortvy, utan uppdatering till kund](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Testspecifikation.md)</sub>|<sub><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Yes_Check_Circle.svg/2000px-Yes_Check_Circle.svg.png" width="15"></sub>|
+|<sub>T4.1-3</sub>|<sub>[Testfall 4 - Ändra status på ärende - flerkortsvy, uppdatering till kund](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Testspecifikation.md)</sub>|<sub><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Yes_Check_Circle.svg/2000px-Yes_Check_Circle.svg.png" width="15"></sub>|
+|<sub>T5.1-4</sub>|<sub>[Testfall 5 - Ändra status på ärende - enskild kortvy, utan uppdatering till kund](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Testspecifikation.md)</sub>|<sub><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Yes_Check_Circle.svg/2000px-Yes_Check_Circle.svg.png" width="15"></sub>|
 
 ### Enhetstester
 <sub>**Tekniker:**  Karma, PhantomJS, Mocha, Chai, Enzyme</sub>  
