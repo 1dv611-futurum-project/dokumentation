@@ -13,7 +13,7 @@
 * <sub>[Starta](https://github.com/1dv611-futurum-project/futurum-project/blob/master/README.md) projektet med `docker-compose`, stående i projektets rot-folder.</sub>
 
 ## För utveckling
-<sub>För att komma igång med utveckling av applikationen, följ instruktionerna för uppstart av projektet enligt ovan. Öppna källkoden i valfri utvecklingsmiljö. Följ sedan processen som beskriven under [arbetsprocessen](https://github.com/1dv611-futurum-project/futurum-project/wiki/Arbetsprocessen), samt använd dig av relevanta [docker-kommandon](https://github.com/1dv611-futurum-project/futurum-project). För utveckling på klienten kan det vara värt att notera att startkommandot i Dockerfilen på client-branchen är anpassat för utveckling, och startar applikationen från `react-dev-server` med hot-reload aktiverat.</sub>
+<sub>För att komma igång med utveckling av applikationen, följ instruktionerna för uppstart av projektet enligt ovan. Öppna källkoden i valfri utvecklingsmiljö. Följ sedan processen som beskriven under [arbetsprocessen](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Arbetsprocessen.md), samt använd dig av relevanta [docker-kommandon](https://github.com/1dv611-futurum-project/futurum-project). För utveckling på klienten kan det vara värt att notera att startkommandot i Dockerfilen på client-branchen är anpassat för utveckling, och startar applikationen från `react-dev-server` med hot-reload aktiverat.</sub>
 
 ## Sätt upp ett projekt hos Google
 <sub> Logga först in på valfritt Google-konto och navigera till [Google Cloud Platform (https://console.cloud.google.com/). Följ sedan följande instruktioner: </sub>

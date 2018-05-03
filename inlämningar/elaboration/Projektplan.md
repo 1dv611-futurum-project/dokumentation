@@ -44,21 +44,21 @@ Timmarna ska spenderas som **20** timmar per vecka, per person, under projektets
 
 ## Tidsplan för projektet
 <sub>Projektet genomförs som en OpenUP-process på macro-nivå, och är uppdelad i fyra cykler: *Inception*, *Elaboration*, *Construction* och *Transition*.</sub>  
-<sub>Det finns även ett fastställt [leveransschema](https://github.com/1dv611-futurum-project/futurum-project/wiki/Leveransschema) för leveranser av färdigställd funktionalitet mot kund.</sub>
+<sub>Det finns även ett fastställt [leveransschema](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Leveransschema.md) för leveranser av färdigställd funktionalitet mot kund.</sub>
 
 |<sub>Vecka</sub>|<sub>Milstenar</sub> |<sub>Delresultat</sub> | <sub>Milsten avklarad</sub> |
 |----|-----------|-----------|--------------:|
-| <sub>13</sub> |<sub>[MILSTEN 1. Project Approval - Inception (Godkännande av design, Kravgranskning, Projektstruktur)](https://github.com/1dv611-futurum-project/futurum-project/wiki/Milstenar#milsten-1-project-approval---inception-godk%C3%A4nnande-av-design-kravgranskning-projektstruktur)</sub>|<br> <sub>Tidsrapporter</sub>|<sub>v. 13 - 30/3 - 18</sub>|
-| <sub>14</sub> | <sub>**(Inception avslutad)** <br> [MILSTEN 2. Project Approval - Inception (Stora tekniska hinder borttagna)](https://github.com/1dv611-futurum-project/futurum-project/wiki/Milstenar#milsten-2-project-approval---inception-stora-tekniska-hinder-borttagna)</sub>| <sub>Vision signerat av kund <br> Risklista <br> Kravspecifikation <br> Tidsrapporter</sub> |<sub>v. 14 - 8/4 - 18</sub>|
+| <sub>13</sub> |<sub>[MILSTEN 1. Project Approval - Inception (Godkännande av design, Kravgranskning, Projektstruktur)](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Milstenar.md)</sub>|<br> <sub>Tidsrapporter</sub>|<sub>v. 13 - 30/3 - 18</sub>|
+| <sub>14</sub> | <sub>**(Inception avslutad)** <br> [MILSTEN 2. Project Approval - Inception (Stora tekniska hinder borttagna)](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Milstenar.md)</sub>| <sub>Vision signerat av kund <br> Risklista <br> Kravspecifikation <br> Tidsrapporter</sub> |<sub>v. 14 - 8/4 - 18</sub>|
 | <sub>15</sub> | <sub>Förbered Inception-presentation <br> Granska en annan grupps inlämning av Inception-fasen</sub>|<sub><br> Tidsrapporter</sub>|<sub>v. 15 - 11/4 - 18</sub>|
-| <sub>16</sub> |<sub>[MILSTEN 3. Project Phase - Elaboration (Skelett)](https://github.com/1dv611-futurum-project/futurum-project/wiki/Milstenar#milsten-3-project-phase---elaboration-skelett)</sub><br><sub>Presentation av Inception-fasen<br> Skicka material till kursledningen för Inception</sub>|<sub>Färdigställt material för Inception</sub><br><sub>Delleverans till kund</sub>|<sub>v. 16 - 21/4 - 18</sub>|
-| <sub>17</sub> | <sub>**(Elaboration avslutad)** <br> [MILSTEN 4. Project Phase - Elaboration (Utökad funktionalitet)](https://github.com/1dv611-futurum-project/futurum-project/wiki/Milstenar#milsten-4-project-phase---elaboration-ut%C3%B6kad-funktionalitet)</sub> |  <sub>Testspecifikation <br> Arkitekturdokument och teknisk specifikation <br> Tidsrapporter</sub>            |<sub></sub>|
+| <sub>16</sub> |<sub>[MILSTEN 3. Project Phase - Elaboration (Skelett)](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Milstenar.md)</sub><br><sub>Presentation av Inception-fasen<br> Skicka material till kursledningen för Inception</sub>|<sub>Färdigställt material för Inception</sub><br><sub>Delleverans till kund</sub>|<sub>v. 16 - 21/4 - 18</sub>|
+| <sub>17</sub> | <sub>**(Elaboration avslutad)** <br> [MILSTEN 4. Project Phase - Elaboration (Utökad funktionalitet)](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Milstenar.md)</sub> |  <sub>Testspecifikation <br> Arkitekturdokument och teknisk specifikation <br> Tidsrapporter</sub>            |<sub></sub>|
 | <sub>18</sub> |  <sub>Presentation av Elaboration-fasen <br> Skicka material till kursledningen för Elaboration</sub>|<sub>Färdigställt material för Elaboration <br> Tidsrapporter</sub>|<sub></sub>|
 | <sub>19</sub> | |<sub><br> Tidsrapporter</sub>||
-| <sub>20</sub> | <sub>**(Construction avslutad)** <br>[MILSTEN 5. Project Phase - Construction (Felhantering & hantering av oregistrerade kunder)](https://github.com/1dv611-futurum-project/futurum-project/wiki/Milstenar#milsten-5-project-phase---construction-felhantering--hantering-av-oregistrerade-kunder)</sub>          |<sub>Source code <br> Kravspecifikation <br> Testspecifikation <br> Testrapporter <br> Risklista <br> Tidsrapporter <br> Projektplan <br> Vision <br> Arkitektur och teknisk specifikation <br> Slutrapport <br></sub>|<sub></sub>|
+| <sub>20</sub> | <sub>**(Construction avslutad)** <br>[MILSTEN 5. Project Phase - Construction (Felhantering & hantering av oregistrerade kunder)](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Milstenar.md)</sub>          |<sub>Source code <br> Kravspecifikation <br> Testspecifikation <br> Testrapporter <br> Risklista <br> Tidsrapporter <br> Projektplan <br> Vision <br> Arkitektur och teknisk specifikation <br> Slutrapport <br></sub>|<sub></sub>|
 | <sub>21</sub> |           |<sub><br> Tidsrapporter</sub>|<sub></sub>|
-| <sub>22</sub> |<sub>[MILSTEN 6. Final Approval - Transition (Fas 1)](https://github.com/1dv611-futurum-project/futurum-project/wiki/Milstenar#milsten-6-final-approval---transition-fas-1)<br>Slutpresentation av projekt</sub>|<sub>Färdig programvara till kund<br> Tidsrapporter</sub>|<sub></sub>|
-| <sub>23</sub> | <sub>**(Transition avslutad)** <br>[MILSTEN 7. Final Approval - Transition (Fas 2)](https://github.com/1dv611-futurum-project/futurum-project/wiki/Milstenar#milsten-7-final-approval---transition-fas-2)</sub> |<sub>Färdig programvara <br> Kravspecifikation <br> Testspecifikation <br> Testrapporter <br> Risklista <br> Tidrapporter <br> Projektplan <br> Vision <br> Arkitektur och teknisk specifikation <br> Slutrapport <br></sub>|<sub></sub>|
+| <sub>22</sub> |<sub>[MILSTEN 6. Final Approval - Transition (Fas 1)](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Milstenar.md)<br>Slutpresentation av projekt</sub>|<sub>Färdig programvara till kund<br> Tidsrapporter</sub>|<sub></sub>|
+| <sub>23</sub> | <sub>**(Transition avslutad)** <br>[MILSTEN 7. Final Approval - Transition (Fas 2)](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Milstenar.md)</sub> |<sub>Färdig programvara <br> Kravspecifikation <br> Testspecifikation <br> Testrapporter <br> Risklista <br> Tidrapporter <br> Projektplan <br> Vision <br> Arkitektur och teknisk specifikation <br> Slutrapport <br></sub>|<sub></sub>|
 
 ## Kommunikationsplan
 ### Mot kund
@@ -76,7 +76,7 @@ Timmarna ska spenderas som **20** timmar per vecka, per person, under projektets
 
 ## Projektorganisation
 ### Arbetsmetoder
-<sub>Projektet genomförs genom en blandning av OpenUP och Kanban som projektmetodik. OpenUP kan bland annat ses i valet och kategoriseringen av [milstenar](https://github.com/1dv611-futurum-project/futurum-project/wiki/Milestones), och Kanban i hur uppgifter konkretiseras i form av issues och fördelas över samt rör sig genom de olika [Projects](https://github.com/1dv611-futurum-project/futurum-project/projects) som skapats för projektet.</sub> 
+<sub>Projektet genomförs genom en blandning av OpenUP och Kanban som projektmetodik. OpenUP kan bland annat ses i valet och kategoriseringen av [milstenar](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Milstenar.md), och Kanban i hur uppgifter konkretiseras i form av issues och fördelas över samt rör sig genom de olika [Projects](https://github.com/1dv611-futurum-project/futurum-project/projects) som skapats för projektet.</sub>
 
 ### Ansvarsfördelning
 <sub>Projektet har en *projektledare*, en *testansvarig*, en *implementationsansvarig* och en *kund- och kravansvarig*. Det är ansvarigs uppgift att strukturera arbetet kring sitt eget ansvarsområde och se till att det är gjort i tid, och allas uppgift att bidra till slutförandet av de arbetsuppgifter som uppstår under varje område.</sub>
@@ -91,6 +91,6 @@ Timmarna ska spenderas som **20** timmar per vecka, per person, under projektets
 <sub>**Kundansvarig:** Ansvar för kravspecifikationen + vision. </sub> <br>
 <sub>**Implementationsansvarig:** Ansvar för arkitektur + teknisk dokumentation.</sub>  
 <sub>**Testansvarig:** Ansvarig för testspecifikation.</sub>  
-<sub>**Projektledare:** Ansvarig för projektplan + iterationsplanering. </sub> 
-  
+<sub>**Projektledare:** Ansvarig för projektplan + iterationsplanering. </sub>
+
 <sub>**Alla:** Ansvariga för risklista + testrapporter.</sub>  

@@ -2,8 +2,8 @@
 
 |<sub>Datum</sub>|<sub>Namn</sub>|<sub>Status</sub>|
 |-------|------------|-------|
-|<sub>18 april 2018</sub>|<sub>[Milsten 3: Delleverans av systemet](https://github.com/1dv611-futurum-project/futurum-project/wiki/leveransschema#milsten-3-delleverans-av-systemet)</sub>|<sub>Genomförd</sub>|
-|<sub>2 maj 2018</sub>|<sub>Milsten 4: Delleverans av systemet</sub>|<sub>Planerad</sub>|
+|<sub>18 april 2018</sub>|<sub>Milsten 3: Delleverans av systemet</sub>|<sub>Genomförd</sub>|
+|<sub>7 maj 2018</sub>|<sub>Milsten 4: Delleverans av systemet</sub>|<sub>Planerad</sub>|
 |<sub>TBA*</sub>|<sub>Milsten 5: Delleverans av systemet</sub>|<sub>Planerad</sub>|
 |<sub>TBA*</sub>|<sub>Milsten 6: Slutleverans av systemet</sub>|<sub>Planerad</sub>|
 

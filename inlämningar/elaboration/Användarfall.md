@@ -17,7 +17,7 @@
 * <sub>II. Systemet visar ett felmeddelande om att autentiseringen misslyckades</sub><br>
 * <sub>III. Steg 2 i huvudscenario</sub>
 
-## [Krav](https://github.com/1dv611-futurum-project/futurum-project/wiki/Kravspecifikation) som relaterar till detta scenario
+## [Krav](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Kravspecifikation.md) som relaterar till detta scenario
 * <sub> #25</sub>
 
 # UC2 Lägga till ny registrerad användare
@@ -34,7 +34,7 @@
 <sub>4a. Systemet kunde inte registrera avsändaren (adress finns redan, fel format på mailadress, fel format på företagsnamn)</sub><br>
 * <sub>I. Systemet visar ett felmeddelande</sub><br>
 
-## [Krav](https://github.com/1dv611-futurum-project/futurum-project/wiki/Kravspecifikation) som relaterar till detta scenario
+## [Krav](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Kravspecifikation.md) som relaterar till detta scenario
 * <sub> #18</sub>
 
 # UC3 Ändra status på ärende
@@ -60,7 +60,7 @@
 * <sub>I. Systemet stänger popup-rutan och visar ett felmeddelande</sub><br>
 * <sub>II. Systemet uppdaterar inte status på ärendet</sub>
 
-## [Krav](https://github.com/1dv611-futurum-project/futurum-project/wiki/Kravspecifikation) som relaterar till detta scenario
+## [Krav](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Kravspecifikation.md) som relaterar till detta scenario
 * <sub> #14</sub>
 * <sub> #16</sub>
 * <sub> #20</sub>
@@ -78,7 +78,7 @@
  <sub>3. Användaren tilldelar ärendet till en ansvarig</sub><br>
  <sub>4. Systemet uppdaterar vem som är tilldelad ärendet</sub>
 
-## [Krav](https://github.com/1dv611-futurum-project/futurum-project/wiki/Kravspecifikation) som relaterar till detta scenario
+## [Krav](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Kravspecifikation.md) som relaterar till detta scenario
 * <sub> #23</sub>
 * <sub> #24</sub>
 
@@ -98,7 +98,7 @@
 <sub>4a. Meddelandet kunde inte skickas</sub><br>
 * <sub>I. Systemet visar ett felmeddelande</sub>
 
-## [Krav](https://github.com/1dv611-futurum-project/futurum-project/wiki/Kravspecifikation) som relaterar till detta scenario
+## [Krav](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Kravspecifikation.md) som relaterar till detta scenario
 * <sub> #17</sub>
 * <sub> #19</sub>
 * <sub> #23</sub>

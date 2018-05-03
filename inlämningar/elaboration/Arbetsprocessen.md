@@ -1,7 +1,7 @@
 # Versionshantering
 <sub>Projektets kodbas finns i ett repositorie på Github och därigenom sköts även all versionshantering. Dokumentation, backlog och övriga tekniska specifikationer finns tillgängliga i den tillhörande wikin.</sub>
 
-<sub>All utveckling utgår från `master` branchen där även all färdigställd eller levererad funktionalitet ligger. Utöver det här finns en `client` samt `server` branch för utveckling inom respektive område. [Generella riktlinjer för utveckling i branches har sammanställts nedan](https://github.com/1dv611-futurum-project/futurum-project/wiki/Arbetsprocessen#branches).</sub>
+<sub>All utveckling utgår från `master` branchen där även all färdigställd eller levererad funktionalitet ligger. Utöver det här finns en `client` samt `server` branch för utveckling inom respektive område. Generella riktlinjer för utveckling i branches har sammanställts nedan.</sub>
 
 ## Utvecklingssteg
 <sub>Följande definierade steg beskriver hur en normal utvecklingsprocess i projektet för ny funktionalitet kan se ut.</sub>
@@ -10,7 +10,7 @@
 ```
 $ git clone https://github.com/1dv611-futurum-project/futurum-project.git
 ```
-<sub>2. Byt till den branch som du planerar att utveckla i (**client** för klienten, eller **server** för servern), och dra ner de senaste ändringarna.</sub> 
+<sub>2. Byt till den branch som du planerar att utveckla i (**client** för klienten, eller **server** för servern), och dra ner de senaste ändringarna.</sub>
 ```
 $ git checkout [branch]
 $ git pull
@@ -42,7 +42,7 @@ $ git checkout master && git merge [server/client]
 ```
 
 ## Projekthantering med issues
-<sub>För att hantera krav från backloggen och de olika iterationerna under projektets gång används [Projects](https://github.com/1dv611-futurum-project/futurum-project/projects) och [Issues](https://github.com/1dv611-futurum-project/futurum-project/issues) på Github. Det översta projektet hanterar kända buggar i applikationen. De följande fyra projekten hanterar de olika typerna av krav som har definierats i [kravspecifikationen](https://github.com/1dv611-futurum-project/futurum-project/wiki/Kravspecifikation). Det sjätte projektet hanterar istället uppgifter för de olika iterationerna. [Generella riktlinjer för användning av issues har sammanställts nedan](https://github.com/1dv611-futurum-project/futurum-project/wiki/Arbetsprocessen#issues).</sub>
+<sub>För att hantera krav från backloggen och de olika iterationerna under projektets gång används [Projects](https://github.com/1dv611-futurum-project/futurum-project/projects) och [Issues](https://github.com/1dv611-futurum-project/futurum-project/issues) på Github. Det översta projektet hanterar kända buggar i applikationen. De följande fyra projekten hanterar de olika typerna av krav som har definierats i [kravspecifikationen](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Kravspecifikation.md). Det sjätte projektet hanterar istället uppgifter för de olika iterationerna. Generella riktlinjer för användning av issues har sammanställts nedan.</sub>
 
 <sub>En normal arbetsprocess för att skapa ett nytt issue kan se ut som följande:</sub>
 

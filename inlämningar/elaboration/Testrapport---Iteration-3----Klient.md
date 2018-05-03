@@ -4,13 +4,13 @@
 <sub>**Testmiljö:**  Kubuntu 17.10</sub>
 
 ### Testfall och status
-<sub>För en beskrivning av testfallen, se [här](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation).</sub>    
+<sub>För en beskrivning av testfallen, se [här](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Testspecifikation.md).</sub>    
 
 <sub>Denna testrapport berör:</sub>  
 
 |<sub>Testfall</sub>|<sub>Namn</sub>|<sub>Status</sub>|
 |----|--------|------------|
-|<sub>TSX</sub>|<sub>[--](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-4---%C3%84ndra-status-p%C3%A5-%C3%A4rende---flerkortsvy-uppdatering-till-kund)</sub>|<sub><img src="http://4.bp.blogspot.com/-3COrhYW7glE/UkxdoBarJfI/AAAAAAAAAwc/lgigiGxjObc/s1600/x_mark_red_circle.png" width="15"></sub>|
+|<sub>TSX</sub>|<sub>[--](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/inception/Testspecifikation.md)</sub>|<sub><img src="http://4.bp.blogspot.com/-3COrhYW7glE/UkxdoBarJfI/AAAAAAAAAwc/lgigiGxjObc/s1600/x_mark_red_circle.png" width="15"></sub>|
 
 ### Enhetstester
 <sub>**Tekniker:**  Karma, chromium-browser, Mocha, Chai, Enzyme</sub>  
@@ -25,7 +25,7 @@
 |<sub>[TicketOverview.unit.spec.tsx](https://github.com/1dv611-futurum-project/futurum-project/blob/client/services/client/test/components/TicketOverview/TicketOverview.unit.spec.tsx)</sub>|<sub>#14</sub>|<sub><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Yes_Check_Circle.svg/2000px-Yes_Check_Circle.svg.png" width="15"></sub>|
 
 ### Otestade delar av systemet
-* <sub>Testfall 1-5</sub> 
+* <sub>Testfall 1-5</sub>
 * <sub>Enhetstester för Modal.tsx, TicketsList.tsx</sub>  
 * <sub>Postman eller manuella tester bör användas för att testa APIet.</sub>  
 

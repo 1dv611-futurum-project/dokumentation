@@ -2,7 +2,7 @@
 <sub>Applikationen kommer isoleras i en [Docker](https://www.docker.com/)-miljö med fyra kontainrar. En vardera för Node-servern, React-klienten, en lokal MongDB databas och NGINX. Applikationen är då förberedd att produktionsättas lokalt hos Futurum Digital och exponeras genom [NGINX](https://www.nginx.com/resources/wiki/).</sub>
 
   ### Språk och tekniker
-<sub>Vi använder Typescript genomgående på både server samt klient.</sub> 
+<sub>Vi använder Typescript genomgående på både server samt klient.</sub>
 
 <sub>I samarbete med Futurum Digital har vi valt att använda [NodeJS](https://nodejs.org/en/about/) som plattform till servern tillsammans med följande bibliotek: [Express](https://expressjs.com/) för hosting och routing, IMAP för att hantera mail-trafik in från servern, Gmails API för mail-trafik ut från servern, [SocketIo](https://www.npmjs.com/package/socket.io) för Websocketkommunikationen internt mellan klient och server, XOAuth2 för autentisering mot Gmail, [Mongoose](https://www.npmjs.com/package/mongoose) till dokumentdatabasen samt ett antal andra hjälpbibliotek (se package.json i `node` mappen).</sub>
 
@@ -29,9 +29,3 @@
 <sub>Event emitters sköter dataleverans till `app.ts` som agerar likt ett nav eller en huvudkontroller för hela serverapplikationen. I emailhanteringen har detta implementerats genom [events-eventemitter](https://www.npmjs.com/package/EventEmitter) medan socketfactory-klassen levererar data genom typade kanaler med callback funktionalitet.</sub>
 
 <sub>För att få så refaktorerbar kod som möjligt har vi hållit oss till att modellera stora delar av koden genom att skapa klasser som ärver av lämpliga och mestadels egenkonstruerade [interfaces](https://www.typescriptlang.org/docs/handbook/interfaces.html).</sub>
-
-***
-
-
-https://github.com/1dv611-futurum-project/futurum-project/blob/master/services/node/tslint.json
-

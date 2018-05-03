@@ -1,5 +1,5 @@
 ### Syfte och målsättning
-<sub>Syftet med testningen är att kunna säkerställa kvalitén kontinuerligt under utvecklingens gång för den applikation som i slutskedet ska levereras till kund. Det slutgiltiga målet är i sin tur att få bekräftat att det som levereras har en fungerande grundfunktionalitet. Prioritering kommer främst att ligga på att leverera de [funktionella krav](https://github.com/1dv611-futurum-project/futurum-project/wiki/Kravspecifikation#funktionella-krav-f%C3%B6lj-processen-h%C3%A4r) som har efterfrågats av kund.  Testningen kommer också delvis att rikta sig mot de [kvalitetskrav](https://github.com/1dv611-futurum-project/futurum-project/wiki/Kravspecifikation#kvalitetskrav-f%C3%B6lj-processen-h%C3%A4r) som finns. Det här gäller endast kvalitetskraven gällande säkerhet, användarvänlighet, webbstandarder och svarstid. Testprocessen ska med andra ord se till så att systemet lever upp till de förväntade kraven.</sub>
+<sub>Syftet med testningen är att kunna säkerställa kvalitén kontinuerligt under utvecklingens gång för den applikation som i slutskedet ska levereras till kund. Det slutgiltiga målet är i sin tur att få bekräftat att det som levereras har en fungerande grundfunktionalitet. Prioritering kommer främst att ligga på att leverera de [funktionella krav](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Kravspecifikation.md) som har efterfrågats av kund.  Testningen kommer också delvis att rikta sig mot de [kvalitetskrav](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Kravspecifikation.md) som finns. Det här gäller endast kvalitetskraven gällande säkerhet, användarvänlighet, webbstandarder och svarstid. Testprocessen ska med andra ord se till så att systemet lever upp till de förväntade kraven.</sub>
 
 ### Verktyg
 <sub>För att genomföra olika tester kommer vi att använda oss av följande verktyg:</sub>
@@ -27,52 +27,52 @@
 ### Systemtest 1: Säkerhet — Kvalitetskrav #9, Funktionellt krav #25
 |<sub>Område</sub>|<sub>ID</sub>|<sub>Testfall</sub>|<sub>Testform</sub>|
 |----|--------|------------|---------|
-|<sub>Server</sub>|<sub>T1</sub>|<sub>[Autentisera servern mot mailadressen som ska bevakas - lyckad autentiering](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-1---autentisera-servern-mot-mailadressen-som-ska-bevakas---lyckad-autentisering)</sub>|<sub>Manuellt</sub>|
-|<sub>Server</sub>|<sub>T2</sub>|<sub>[Autentisera servern mot mailadressen som ska bevakas - autentiering behöver en upprepas](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-2---autentisera-servern-mot-mailadressen-som-ska-bevakas---autentiering-behöver-ej-upprepas)</sub>|<sub>Manuellt</sub>|
-|<sub>Server</sub>|<sub>T3</sub>|<sub>[Autentisera servern mot mailadressen som ska bevakas - autentiering upprepas om cookie tas bort](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-3---autentisera-servern-mot-mailadressen-som-ska-bevakas---autentiering-upprepas-om-cookie-tas-bort)</sub>|<sub>Manuellt</sub>|
-|<sub>Server</sub>|<sub>T4</sub>|<sub>[Autentisera servern mot mailadressen som ska bevakas - autentiering upprepas om server startas om](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-4---autentisera-servern-mot-mailadressen-som-ska-bevakas---autentiering-upprepas-om-server-startas-om)</sub>|<sub>Manuellt</sub>|
-|<sub>Server</sub>|<sub>T5</sub>|<sub>[Autentisera servern mot mailadressen som ska bevakas - misslyckad autentiering](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-5---autentisera-servern-mot-mailadressen-som-ska-bevakas---misslyckad-autentisering)</sub>|<sub>Manuellt</sub>|
-|<sub>Server</sub>|<sub>T6</sub>|<sub>[Autentisera servern mot mailadressen som ska bevakas - nekad autentiering](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-6---autentisera-servern-mot-mailadressen-som-ska-bevakas---nekad-autentisering)</sub>|<sub>Manuellt</sub>|
+|<sub>Server</sub>|<sub>T1</sub>|<sub>Autentisera servern mot mailadressen som ska bevakas - lyckad autentiering</sub>|<sub>Manuellt</sub>|
+|<sub>Server</sub>|<sub>T2</sub>|<sub>Autentisera servern mot mailadressen som ska bevakas - autentiering behöver en upprepas</sub>|<sub>Manuellt</sub>|
+|<sub>Server</sub>|<sub>T3</sub>|<sub>Autentisera servern mot mailadressen som ska bevakas - autentiering upprepas om cookie tas bort</sub>|<sub>Manuellt</sub>|
+|<sub>Server</sub>|<sub>T4</sub>|<sub>Autentisera servern mot mailadressen som ska bevakas - autentiering upprepas om server startas om</sub>|<sub>Manuellt</sub>|
+|<sub>Server</sub>|<sub>T5</sub>|<sub>Autentisera servern mot mailadressen som ska bevakas - misslyckad autentiering</sub>|<sub>Manuellt</sub>|
+|<sub>Server</sub>|<sub>T6</sub>|<sub>Autentisera servern mot mailadressen som ska bevakas - nekad autentiering</sub>|<sub>Manuellt</sub>|
 
 ### Systemtest 2: Visning av ärenden — Funktionellt krav #14, #17, #23
 |<sub>Område</sub>|<sub>ID</sub>|<sub>Testfall</sub>|<sub>Testform</sub>|
 |----|--------|------------|---------|
-|<sub>Server</sub>|<sub>T1</sub>|<sub>[Autentisera servern mot mailadressen som ska bevakas - lyckad autentiering](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-1---autentisera-servern-mot-mailadressen-som-ska-bevakas---lyckad-autentisering)</sub>|<sub>Manuellt</sub>|
-|<sub>Server</sub>|<sub>T2</sub>|<sub>[Autentisera servern mot mailadressen som ska bevakas - autentiering behöver ej upprepas](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-2---autentisera-servern-mot-mailadressen-som-ska-bevakas---autentiering-behöver-ej-upprepas)</sub>|<sub>Manuellt</sub>|
-|<sub>Server</sub>|<sub>T3</sub>|<sub>[Autentisera servern mot mailadressen som ska bevakas - autentiering upprepas om cookie tas bort](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-3---autentisera-servern-mot-mailadressen-som-ska-bevakas---autentiering-upprepas-om-cookie-tas-bort)</sub>|<sub>Manuellt</sub>|
-|<sub>Server</sub>|<sub>T4</sub>|<sub>[Autentisera servern mot mailadressen som ska bevakas - autentiering upprepas om server startas om](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-4---autentisera-servern-mot-mailadressen-som-ska-bevakas---autentiering-upprepas-om-server-startas-om)</sub>|<sub>Manuellt</sub>|
+|<sub>Server</sub>|<sub>T1</sub>|<sub>Autentisera servern mot mailadressen som ska bevakas - lyckad autentiering</sub>|<sub>Manuellt</sub>|
+|<sub>Server</sub>|<sub>T2</sub>|<sub>Autentisera servern mot mailadressen som ska bevakas - autentiering behöver ej upprepas</sub>|<sub>Manuellt</sub>|
+|<sub>Server</sub>|<sub>T3</sub>|<sub>Autentisera servern mot mailadressen som ska bevakas - autentiering upprepas om cookie tas bort</sub>|<sub>Manuellt</sub>|
+|<sub>Server</sub>|<sub>T4</sub>|<sub>Autentisera servern mot mailadressen som ska bevakas - autentiering upprepas om server startas om</sub>|<sub>Manuellt</sub>|
 
 ### Systemtest 3: Ärendehantering — Funktionellt krav #16, #19, #20, #24
 |<sub>Område</sub>|<sub>ID</sub>|<sub>Testfall</sub>|<sub>Testform</sub>|
 |----|--------|------------|---------|
-|<sub>Server</sub>|<sub>T1</sub>|<sub>[Autentisera servern mot mailadressen som ska bevakas - lyckad autentiering](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-1---autentisera-servern-mot-mailadressen-som-ska-bevakas---lyckad-autentisering)</sub>|<sub>Manuellt</sub>|
-|<sub>Server</sub>|<sub>T2</sub>|<sub>[Autentisera servern mot mailadressen som ska bevakas - autentiering behöver ej upprepas](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-2---autentisera-servern-mot-mailadressen-som-ska-bevakas---autentiering-behöver-ej-upprepas)</sub>|<sub>Manuellt</sub>|
-|<sub>Server</sub>|<sub>T3</sub>|<sub>[Autentisera servern mot mailadressen som ska bevakas - autentiering upprepas om cookie tas bort](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-3---autentisera-servern-mot-mailadressen-som-ska-bevakas---autentiering-upprepas-om-cookie-tas-bort)</sub>|<sub>Manuellt</sub>|
-|<sub>Server</sub>|<sub>T4</sub>|<sub>[Autentisera servern mot mailadressen som ska bevakas - autentiering upprepas om server startas om](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-4---autentisera-servern-mot-mailadressen-som-ska-bevakas---autentiering-upprepas-om-server-startas-om)</sub>|<sub>Manuellt</sub>|
-|<sub>Klient</sub>|<sub>T4</sub>|<sub>[Ändra status på ärende - flerkortsvy, uppdatering till kund](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-4---%C3%84ndra-status-p%C3%A5-%C3%A4rende---flerkortsvy-uppdatering-till-kund)</sub>|<sub>Manuellt</sub>|
-|<sub>Klient</sub>|<sub>T5</sub>|<sub>[Ändra status på ärende - enskild kortvy, utan uppdatering till kund](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-5---%C3%84ndra-status-p%C3%A5-%C3%A4rende---enskild-kortvy-utan-uppdatering-till-kund)</sub>|<sub>Manuellt</sub>|
-|<sub>Klient</sub>|<sub>T6</sub>|<sub>[Tilldela ärende](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-6---tilldela-%C3%A4rende)</sub>|<sub>Manuellt</sub>|
-|<sub>Klient</sub>|<sub>T7</sub>|<sub>[Tilldela ärende - ta bort tilldelning](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-7---tilldela-%C3%A4rende---ta-bort-tilldelning)</sub>|<sub>Manuellt</sub>|
-|<sub>Klient</sub>|<sub>T8</sub>|<sub>[Svara på ett ärende](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-8---svara-p%C3%A5-ett-%C3%A4rende)</sub>|<sub>Manuellt</sub>|
-|<sub>Klient</sub>|<sub>T9</sub>|<sub>[Svara på ett ärende - med radbrytning](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-9---svara-p%C3%A5-ett-%C3%A4rende---med-radbrytning)</sub>|<sub>Manuellt</sub>|
-|<sub>Klient</sub>|<sub>T10</sub>|<sub>[Svara på ett ärende - med formatering](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-10---svara-p%C3%A5-ett-%C3%A4rende---med-formatering)</sub>|<sub>Manuellt</sub>|
+|<sub>Server</sub>|<sub>T1</sub>|<sub>Autentisera servern mot mailadressen som ska bevakas - lyckad autentiering</sub>|<sub>Manuellt</sub>|
+|<sub>Server</sub>|<sub>T2</sub>|<sub>Autentisera servern mot mailadressen som ska bevakas - autentiering behöver ej upprepas</sub>|<sub>Manuellt</sub>|
+|<sub>Server</sub>|<sub>T3</sub>|<sub>Autentisera servern mot mailadressen som ska bevakas - autentiering upprepas om cookie tas bort</sub>|<sub>Manuellt</sub>|
+|<sub>Server</sub>|<sub>T4</sub>|<sub>Autentisera servern mot mailadressen som ska bevakas - autentiering upprepas om server startas om</sub>|<sub>Manuellt</sub>|
+|<sub>Klient</sub>|<sub>T4</sub>|<sub>Ändra status på ärende - flerkortsvy, uppdatering till kund</sub>|<sub>Manuellt</sub>|
+|<sub>Klient</sub>|<sub>T5</sub>|<sub>Ändra status på ärende - enskild kortvy, utan uppdatering till kund</sub>|<sub>Manuellt</sub>|
+|<sub>Klient</sub>|<sub>T6</sub>|<sub>Tilldela ärende</sub>|<sub>Manuellt</sub>|
+|<sub>Klient</sub>|<sub>T7</sub>|<sub>Tilldela ärende - ta bort tilldelning</sub>|<sub>Manuellt</sub>|
+|<sub>Klient</sub>|<sub>T8</sub>|<sub>Svara på ett ärende</sub>|<sub>Manuellt</sub>|
+|<sub>Klient</sub>|<sub>T9</sub>|<sub>Svara på ett ärende - med radbrytning</sub>|<sub>Manuellt</sub>|
+|<sub>Klient</sub>|<sub>T10</sub>|<sub>Svara på ett ärende - med formatering</sub>|<sub>Manuellt</sub>|
 
 
 ### Systemtest 4: Inkomna mail — Funktionellt krav #15, #21, #22
 |<sub>Område</sub>|<sub>ID</sub>|<sub>Testfall</sub>|<sub>Testform</sub>|
 |----|--------|------------|---------|
-|<sub>Server</sub>|<sub>T1</sub>|<sub>[Autentisera servern mot mailadressen som ska bevakas - lyckad autentiering](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-1---autentisera-servern-mot-mailadressen-som-ska-bevakas---lyckad-autentisering)</sub>|<sub>Manuellt</sub>|
-|<sub>Server</sub>|<sub>T2</sub>|<sub>[Autentisera servern mot mailadressen som ska bevakas - autentiering behöver ej upprepas](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-2---autentisera-servern-mot-mailadressen-som-ska-bevakas---autentiering-behöver-ej-upprepas)</sub>|<sub>Manuellt</sub>|
-|<sub>Server</sub>|<sub>T3</sub>|<sub>[Autentisera servern mot mailadressen som ska bevakas - autentiering upprepas om cookie tas bort](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-3---autentisera-servern-mot-mailadressen-som-ska-bevakas---autentiering-upprepas-om-cookie-tas-bort)</sub>|<sub>Manuellt</sub>|
-|<sub>Server</sub>|<sub>T4</sub>|<sub>[Autentisera servern mot mailadressen som ska bevakas - autentiering upprepas om server startas om](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-4---autentisera-servern-mot-mailadressen-som-ska-bevakas---autentiering-upprepas-om-server-startas-om)</sub>|<sub>Manuellt</sub>|
-|<sub>Server</sub>|<sub>T7</sub>|<sub>[Ta emot mail som skickas till den autentierade mailadressen](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-7---ta-emot-mail-som-skickas-till-den-autentierade-mailadressen)</sub>|<sub>Manuellt</sub>|
+|<sub>Server</sub>|<sub>T1</sub>|<sub>Autentisera servern mot mailadressen som ska bevakas - lyckad autentiering</sub>|<sub>Manuellt</sub>|
+|<sub>Server</sub>|<sub>T2</sub>|<sub>Autentisera servern mot mailadressen som ska bevakas - autentiering behöver ej upprepas</sub>|<sub>Manuellt</sub>|
+|<sub>Server</sub>|<sub>T3</sub>|<sub>Autentisera servern mot mailadressen som ska bevakas - autentiering upprepas om cookie tas bort</sub>|<sub>Manuellt</sub>|
+|<sub>Server</sub>|<sub>T4</sub>|<sub>Autentisera servern mot mailadressen som ska bevakas - autentiering upprepas om server startas om</sub>|<sub>Manuellt</sub>|
+|<sub>Server</sub>|<sub>T7</sub>|<sub>Ta emot mail som skickas till den autentierade mailadressen</sub>|<sub>Manuellt</sub>|
 
 ### Systemtest 5: Registrerade mailadresser — Funktionellt krav #18
 |<sub>Område</sub>|<sub>ID</sub>|<sub>Testfall</sub>|<sub>Testform</sub>|
 |----|--------|------------|---------|
-|<sub>Klient</sub>|<sub>T1</sub>|<sub>[Lägga till ny mailadress](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-1---l%C3%A4gga-till-ny-mailadress)</sub>|<sub>Manuellt</sub>|
-|<sub>Klient</sub>|<sub>T2</sub>|<sub>[Lägga till ny mailadress - felaktig input](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-2---l%C3%A4gga-till-ny-mailadress---felaktig-input)</sub>|<sub>Manuellt</sub>|
-|<sub>Klient</sub>|<sub>T3</sub>|<sub>[Lägga till ny mailadress - redan registrerad mailadress](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation#testfall-3---l%C3%A4gga-till-ny-mailadress---redan-registrerad-mailadress)</sub>|<sub>Manuellt</sub>|
+|<sub>Klient</sub>|<sub>T1</sub>|<sub>Lägga till ny mailadress</sub>|<sub>Manuellt</sub>|
+|<sub>Klient</sub>|<sub>T2</sub>|<sub>Lägga till ny mailadress - felaktig input</sub>|<sub>Manuellt</sub>|
+|<sub>Klient</sub>|<sub>T3</sub>|<sub>Lägga till ny mailadress - redan registrerad mailadress</sub>|<sub>Manuellt</sub>|
 
 
 ## Testfall - Server

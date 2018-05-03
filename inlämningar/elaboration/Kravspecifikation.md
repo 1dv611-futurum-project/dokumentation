@@ -52,7 +52,7 @@
 |<sub>#25</sub>|<sub>[Användare ska kunna autentisera sig mot Gmail via OAuth*](https://github.com/1dv611-futurum-project/futurum-project/issues/150) </sub>|<sub>nr.3-4</sub>|<sub>--</sub>|<sub>Hög</sub>|<sub>Implementerat</sub>|
 
 #### Användarfall
-<sub>För en utförligare förklaring av de funktionella kraven, [läs mer i användarfallen](https://github.com/1dv611-futurum-project/futurum-project/wiki/Anv%C3%A4ndarfall).</sub><br>
+<sub>För en utförligare förklaring av de funktionella kraven, [läs mer i användarfallen](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Användarfall.md).</sub><br>
 
 ### Tester
-<sub>För en lista över systemtester och testfall som testar kraven, se [Testspecifikationen](https://github.com/1dv611-futurum-project/futurum-project/wiki/Testspecifikation).</sub>
+<sub>För en lista över systemtester och testfall som testar kraven, se [Testspecifikationen](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Testspecifikation.md).</sub>

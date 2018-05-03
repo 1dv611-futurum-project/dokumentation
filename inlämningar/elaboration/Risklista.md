@@ -4,16 +4,16 @@
 
 <sub>Sannolikhet och konsekvens för riskerna värderas mellan 1 och 5, där 1 är lågt och 5 är högt. Prioriteten hos en risk räknas fram genom att multiplicera sannolikheten med konsekvensen. Den risk som har det högsta numeriska värdet på prioritet, prioriteras därmed också först vid riskhanteringen.</sub>
 
-|<sub>ID</sub>|<sub>Namn</sub>|<sub>Beskrivning</sub>|<sub>Status</sub>|<sub>Prio</sub>|<sub>[Krav](https://github.com/1dv611-futurum-project/futurum-project/wiki/Kravspecifikation)</sub>|
+|<sub>ID</sub>|<sub>Namn</sub>|<sub>Beskrivning</sub>|<sub>Status</sub>|<sub>Prio</sub>|<sub>[Krav](https://github.com/1dv611-futurum-project/dokumentation/blob/master/inlämningar/elaboration/Kravspecifikation.md)</sub>|
 |----|-----------|-----------|-----------|--|--:|
-|<sub>R1</sub>|<sub>[Bristande kundengagemang](https://github.com/1dv611-futurum-project/futurum-project/wiki/Risklista#r1-bristande-kundengagemang)</sub>|<sub>Kunden engagerar sig inte i projektet i form av feedback eller är svår att få tag i.</sub>|<sub>Hanteras löpande</sub>|<sub>6</sub>|<sub>Alla</sub>|
-|<sub>R2</sub>|<sub>[Tidsbrist](https://github.com/1dv611-futurum-project/futurum-project/wiki/Risklista#r2-tidsbrist)</sub>|<sub>De timmar som tilldelats projektgruppen räcker inte till för att färdigställa produkten.</sub>|<sub>Hanteras löpande</sub>|<sub>4</sub>|<sub>Alla</sub>|
-|<sub>R3</sub>|<sub>[Sjukdom/närvarobrist](https://github.com/1dv611-futurum-project/futurum-project/wiki/Risklista#r3-sjukdomn%C3%A4rvarobrist)</sub>|<sub>Minskad närvaro hos en eller flera medlemmar i gruppen, pga sjukdom, jobb, fritidsaktiviteter eller dylikt.</sub>|<sub>Hanteras löpande</sub>|<sub>9</sub>|<sub>Alla</sub>|
-|<sub>R4</sub>|<sub>[Dålig grupp-kommunikation](https://github.com/1dv611-futurum-project/futurum-project/wiki/Risklista#r4-d%C3%A5lig-gruppkommunikation)</sub>|<sub>Kommunikationen inom gruppen är bristande eller otydlig och orsakar missförstånd.</sub>|<sub>Hanteras löpande</sub>|<sub>8</sub>|<sub>Alla</sub>|
-|<sub>R5</sub>|<sub>[Docker](https://github.com/1dv611-futurum-project/futurum-project/wiki/Risklista#r5-docker)</sub>|<sub>Problem med Docker som utvecklingsplattform.</sub>|<sub>Hanterad/ Avklarad</sub>|<sub>20</sub>|<sub>Alla</sub>|
-|<sub>R6</sub>|<sub>[IMAP](https://github.com/1dv611-futurum-project/futurum-project/wiki/Risklista#r6-imap)</sub>|<sub>IMAP-modulen är svår att integrera mot.</sub>|<sub>Hanterad/ Avklarad</sub>|<sub>20</sub>|<sub>#14-#16, #19-#22</sub>|
-|<sub>R7</sub>|<sub>[Databasproblem](https://github.com/1dv611-futurum-project/futurum-project/wiki/Risklista#r7-databasproblem)</sub>|<sub>Integrationen mot databasen via Docker blir problematisk eller fungerar inte.</sub>|<sub>Hanterad/ Avklarad</sub>|<sub>10</sub>|<sub>#14, #16, #18</sub>|
-|<sub>R8</sub>|<sub>[Websocket](https://github.com/1dv611-futurum-project/futurum-project/wiki/Risklista#r8-websocket)</sub>|<sub>Kommunikationen mellan klient och server via Websocket är problematisk eller svår att få fungerande.</sub>|<sub>Hanterad/ Avklarad</sub>|<sub>15</sub>|<sub>#14-#20</sub>|
+|<sub>R1</sub>|<sub>Bristande kundengagemang</sub>|<sub>Kunden engagerar sig inte i projektet i form av feedback eller är svår att få tag i.</sub>|<sub>Hanteras löpande</sub>|<sub>6</sub>|<sub>Alla</sub>|
+|<sub>R2</sub>|<sub>Tidsbrist</sub>|<sub>De timmar som tilldelats projektgruppen räcker inte till för att färdigställa produkten.</sub>|<sub>Hanteras löpande</sub>|<sub>4</sub>|<sub>Alla</sub>|
+|<sub>R3</sub>|<sub>Sjukdom/närvarobrist</sub>|<sub>Minskad närvaro hos en eller flera medlemmar i gruppen, pga sjukdom, jobb, fritidsaktiviteter eller dylikt.</sub>|<sub>Hanteras löpande</sub>|<sub>9</sub>|<sub>Alla</sub>|
+|<sub>R4</sub>|<sub>Dålig grupp-kommunikation</sub>|<sub>Kommunikationen inom gruppen är bristande eller otydlig och orsakar missförstånd.</sub>|<sub>Hanteras löpande</sub>|<sub>8</sub>|<sub>Alla</sub>|
+|<sub>R5</sub>|<sub>Docker</sub>|<sub>Problem med Docker som utvecklingsplattform.</sub>|<sub>Hanterad/ Avklarad</sub>|<sub>20</sub>|<sub>Alla</sub>|
+|<sub>R6</sub>|<sub>IMAP</sub>|<sub>IMAP-modulen är svår att integrera mot.</sub>|<sub>Hanterad/ Avklarad</sub>|<sub>20</sub>|<sub>#14-#16, #19-#22</sub>|
+|<sub>R7</sub>|<sub>Databasproblem</sub>|<sub>Integrationen mot databasen via Docker blir problematisk eller fungerar inte.</sub>|<sub>Hanterad/ Avklarad</sub>|<sub>10</sub>|<sub>#14, #16, #18</sub>|
+|<sub>R8</sub>|<sub>Websocket</sub>|<sub>Kommunikationen mellan klient och server via Websocket är problematisk eller svår att få fungerande.</sub>|<sub>Hanterad/ Avklarad</sub>|<sub>15</sub>|<sub>#14-#20</sub>|
 
 
 
